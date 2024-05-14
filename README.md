@@ -9,12 +9,6 @@ To run this analysis, you need Python installed on your system, along with the f
 - NumPy
 - Matplotlib
 
-You can install these packages using pip:
-
-```bash
-pip install pandas numpy matplotlib
-```bash
-
 ## Data
 The dataset used in this project (online_retail.csv) contains several fields per transaction, including the invoice number, stock code, description, quantity, invoice date, unit price, customer ID, and country.
 
